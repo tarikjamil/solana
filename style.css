@@ -1,3 +1,9 @@
 .quantity {
     pointer-events: none !important;
 }
+
+.other {
+    pointer-events: auto !important;
+}
+```
+```

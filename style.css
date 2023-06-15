@@ -2,6 +2,9 @@
     pointer-events: none !important;
 }
 
-.other {
-    pointer-events: auto !important;
+.w-commerce-commerceaddtocartoutofstock {
+    background-color: red !important;
+    color: white !important;
+    border-radius: 4rem !important;
 }
+

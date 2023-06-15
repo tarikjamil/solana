@@ -12,7 +12,6 @@
 
 .w-commerce-commerceaddtocartoptionpill {
     box-sizing: border-box;
-    
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -24,9 +23,6 @@
     opacity: 0.6;
     border: 1px solid #FFFFFF;
     border-radius: 100rem;
-    
-    /* Inside auto layout */
-    
     flex: none;
     order: 1;
     flex-grow: 1;

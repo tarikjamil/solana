@@ -19,6 +19,8 @@
     align-items: center;
     padding: 10rem;
     font-size: 14rem;
+    background-color: transparent !important;
+    color: #ffffff !important
     
     opacity: 0.6;
     border: 1px solid #FFFFFF;

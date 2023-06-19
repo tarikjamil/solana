@@ -33,3 +33,7 @@
     color: #000000 !important;
     opacity: 1;
 }
+
+.product-item {
+    text-decoration: none !important;
+}
